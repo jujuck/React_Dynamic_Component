@@ -1,0 +1,44 @@
+[
+  {
+    "component": "blue",
+    "data": {
+      "title": "Welcome Home in blue component",
+      "description": "This is a blue dynamic component in the home page"
+    }
+  },
+  {
+    "component": "red",
+    "data": {
+      "title": "Welcome Home in red component",
+      "description": "This is a red dynamic component in the home page"
+    }
+  },
+  {
+    "component": "green",
+    "data": {
+      "title": "Welcome Home in green component",
+      "description": "This is a green dynamic component in the home page"
+    }
+  },
+  {
+    "component": "green",
+    "data": {
+      "title": "Welcome Home in green component",
+      "description": "This is a green dynamic component in the home page"
+    }
+  },
+  {
+    "component": "red",
+    "data": {
+      "title": "Welcome Home in red component",
+      "description": "This is a red dynamic component in the home page"
+    }
+  },
+  {
+    "component": "green",
+    "data": {
+      "title": "Welcome Home in green component",
+      "description": "This is a green dynamic component in the home page"
+    }
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "component": "red",
+    "data": {
+      "title": "Welcome produit in red component",
+      "description": "This is a red dynamic component in the produit page"
+    }
+  },
+  {
+    "component": "blue",
+    "data": {
+      "title": "Welcome produit in blue component",
+      "description": "This is a blue dynamic component in the produit page"
+    }
+  },
+  {
+    "component": "green",
+    "data": {
+      "title": "Welcome produit in green component",
+      "description": "This is a green dynamic component in the produit page"
+    }
+  }
+]

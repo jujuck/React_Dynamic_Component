@@ -1,0 +1,23 @@
+[
+  {
+    "component": "blue",
+    "data": {
+      "title": "Welcome Philosophie in blue component",
+      "description": "This is a blue dynamic component in the Philosophie page"
+    }
+  },
+  {
+    "component": "red",
+    "data": {
+      "title": "Welcome Philosophie in red component",
+      "description": "This is a red dynamic component in the Philosophie page"
+    }
+  },
+  {
+    "component": "green",
+    "data": {
+      "title": "Welcome Philosophie in green component",
+      "description": "This is a green dynamic component in the Philosophie page"
+    }
+  }
+]
